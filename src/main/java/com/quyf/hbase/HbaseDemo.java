@@ -19,7 +19,6 @@ import java.util.List;
  * Created by Administrator on 2018/4/8.
  * hbase概念http://www.cnblogs.com/zlslch/p/5956699.html
  * http://www.cnblogs.com/zlslch/category/922188.html
- * file:///D:/downloads/BaiduNetdiskDownload/%E3%80%90%E6%9E%81%E9%99%90%E7%8F%AD%E5%9F%B9%E8%AE%AD%E3%80%91%E5%A4%A7%E6%95%B0%E6%8D%AE%EF%BC%88%E5%B0%9A%E5%AD%A6%E5%A0%82%EF%BC%89/2016-03-05%20hbase/2016-02-28-hbase/0228/hbase-1.1.3-bin/hbase-1.1.3/docs/devapidocs/index.html
  */
 
 public class HbaseDemo {
